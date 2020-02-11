@@ -20,6 +20,8 @@ with open(csvpath, 'r') as csvfile:
 
 The final output was pushed to a .txt file:
 
+````
+
 Financial Analysis
 ----------------------------
 Total Months: 86
@@ -28,3 +30,4 @@ Average Change: $-2315.12
 Greatest Increase in Profits: Feb-12 ($1926159)
 Greatest Decrease in Profits: Sep-13 ($-2196167)
 
+````
