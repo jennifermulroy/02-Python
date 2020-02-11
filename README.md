@@ -1,6 +1,6 @@
 # Automate Your Day Job with Python
 
-Python scripts were written to analyze two hypothetical companys' financial records, PyRamen and PyBank, to automate daily workflow processes. 
+Python is used to analyze two hypothetical companys' financial records, PyRamen and PyBank, to automate daily workflow processes. 
 
 ### PyRamen
 
